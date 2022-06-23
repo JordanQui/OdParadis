@@ -29,13 +29,13 @@ o.hardwareBufferSize = 128;
 	"synth created".postln;
 	s.sync;
 
-	PathName(~environementPath++"modules/planteDetector.scd").fullPath.load;
-	"plant detected".postln;
-	s.sync;
+	// PathName(~environementPath++"modules/planteDetector.scd").fullPath.load;
+	// "plant detected".postln;
+	// s.sync;
 
-	PathName(~environementPath++"modules/oscresponders.scd").fullPath.load;
-	"remote starter created".postln;
-	s.sync;
+	// PathName(~environementPath++"modules/oscresponders.scd").fullPath.load;
+	// "remote starter created".postln;
+	// s.sync;
 
 	PathName(~environementPath++"modules/makevoice.scd").fullPath.load;
 	"voice function created".postln;
@@ -48,7 +48,7 @@ o.hardwareBufferSize = 128;
 
 	~voicer = ~voicer ? ();
 	~voicer.rasp = NPVoicer( Ndef(\rasp) );
-	~voicer.rasp.prime(\silence);
+	~voicer.rasp.prime(\oudini_00);
 	s.sync;
 	~voicer.rasp.play;
 	s.sync;

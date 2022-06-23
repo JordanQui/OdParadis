@@ -41,9 +41,9 @@ o.hardwareBufferSize = 128;
 	"voice function created".postln;
 	s.sync;
 
-	PathName(~environementPath++"conductor.scd").fullPath.load;
-	"conductor created".postln;
-	s.sync;
+	// PathName(~environementPath++"conductor.scd").fullPath.load;
+	// "conductor created".postln;
+	// s.sync;
 
 
 	~voicer = ~voicer ? ();
@@ -61,15 +61,13 @@ o.hardwareBufferSize = 128;
 	// });
 
 
-	~l[\smpl].postln;
+	// ~l[\smpl].postln;
 	("LISTENING ON PORT : " + thisProcess.openPorts).postln;
 	Pdef(\x, Pbind(\dur, 0.125, \strum, 0.112, \scale, Scale.minor, \degree, Pseq([[1,2,3], [4,5,6], [7,8,9], [10,11,12]], 1))).play;
 
-	s.volume = 0.2.squared.ampdb;
+	s.volume = 1.squared.ampdb;
 };
 
 
 s.waitForBoot({ ~oudini.play(AppClock) });
 
-
-Quarks.gui

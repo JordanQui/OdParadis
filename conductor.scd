@@ -11,7 +11,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_00) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_00) };
 
 		(125.22).wait;
 
@@ -25,7 +27,9 @@
 		{ ~plt == 1 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\silence) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\silence) };
 
 		(39.01).wait;
 
@@ -41,7 +45,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_00) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_00) };
 
 		(19.97).wait;
 
@@ -54,7 +60,9 @@
 		{ ~plt == 1 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\silence) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\silence) };
 
 		(6.79).wait;
 
@@ -70,7 +78,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_00) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_00) };
 
 		(79.05).wait;
 
@@ -84,7 +94,9 @@
 		{ ~plt == 1 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\silence) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\silence) };
 
 		(15.05).wait;
 
@@ -99,7 +111,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_00) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_00) };
 
 
 		(71.01).wait;
@@ -113,7 +127,9 @@
 		{ ~plt == 1 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\silence) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\silence) };
 
 		(16.98).wait;
 
@@ -130,7 +146,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_00) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_00) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_00) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_00) };
 
 
 		(33.92).wait;
@@ -145,7 +163,9 @@
 		{ ~plt == 1 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\silence) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\silence) };
 
 		(36.07).wait;
 
@@ -160,7 +180,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_01) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_01) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_01) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_01) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_01) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_01) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_01) };
 
 		(47.98).wait;
 
@@ -176,7 +198,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_01) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_01) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_01) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_01) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_01) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_01) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_01) };
 
 		(168.94).wait;
 
@@ -189,7 +213,9 @@
 		{ ~plt == 1 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\silence) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\silence) };
 
 		(34.2).wait;
 
@@ -204,7 +230,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_01) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_01) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_01) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_01) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_01) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_01) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_01) };
 
 		(46.96).wait;
 
@@ -217,7 +245,9 @@
 	   	{ ~plt == 1 } { ~voicer.rasp.prime(\oudini_02) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\oudini_02) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\oudini_02) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_02) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\oudini_02) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\oudini_02) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\oudini_02) };
 
 		(63.92).wait;
 
@@ -229,7 +259,9 @@
 		{ ~plt == 1 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 2 } { ~voicer.rasp.prime(\silence) }
 	   	{ ~plt == 3 } { ~voicer.rasp.prime(\silence) }
-	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) };
+	   	{ ~plt == 4 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 5 } { ~voicer.rasp.prime(\silence) }
+	   	{ ~plt == 6 } { ~voicer.rasp.prime(\silence) };
 
 		(12.02).wait;
 
